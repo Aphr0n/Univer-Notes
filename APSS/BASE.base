@@ -1,8 +1,0 @@
-views:
-  - type: table
-    name: Table
-    rowHeight: tall
-  - type: cards
-    name: View
-  - type: table
-    name: View 2

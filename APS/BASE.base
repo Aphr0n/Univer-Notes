@@ -1,6 +1,12 @@
 views:
-  - type: table
+  - type: cards
     name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC
+    sort:
+      - property: file.ctime
+        direction: ASC
     rowHeight: tall
   - type: cards
     name: View

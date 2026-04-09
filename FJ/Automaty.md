@@ -1,0 +1,1 @@
+**Automat** predstavuje v teoretickej informatike bežne využívaný matematický model, ktorý na vstupe prijíma reťazec symbolov. Tento reťazec spracuje a po konečnom počte ktorov rozhodne, či patrí do takto špecifikovaného jazyka alebo nie (hovoríme, že automat reťazec akceptuje resp. neakceptuje).

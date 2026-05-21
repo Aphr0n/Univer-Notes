@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "8c107d2901c6ebf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "39011262d322b052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f1a7360ba698001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Метод Ньютона.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Метод Ньютона"
+            }
+          },
+          {
+            "id": "e94d31bfbe69c0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/DML/З'єднання таблиць/INNER JOIN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "INNER JOIN"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bd80b97a1ef027e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0e00dba459e4de89",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловий менеджер"
+        }
+      },
+      {
+        "id": "b4443419fc165f49",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "06a3084afe15d89f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c8497cf8d4b38bbb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "971084c1eb1b1ce5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "985db0d204ebfa68",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "FJ/FFP.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Зворотні посилання"
+        }
+      },
+      {
+        "id": "69427486dc2a9ba6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "341ad62ce3e91608",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e94d31bfbe69c0ca",
+  "lastOpenFiles": [
+    "DB/DML/Подання/Подання.md",
+    "DB/DML/З'єднання таблиць/Введеня.md",
+    "Numerical analysis, probability and statistics/Означення та формули.md",
+    "Numerical analysis, probability and statistics/Числові характеристики статистичного набору.md",
+    "Numerical analysis, probability and statistics/Точкова й інтервальна оцінка.md",
+    "Numerical analysis, probability and statistics/Коефіцієнт рангової кореляції Кендалла.md",
+    "Numerical analysis, probability and statistics/Коефіцієнт рангової кореляції Спірмена.md",
+    "Numerical analysis, probability and statistics/Коефіціент кореляції.md",
+    "Numerical analysis, probability and statistics/Коваріація.md",
+    "Numerical analysis, probability and statistics/Регресний аналіз.md",
+    "Numerical analysis, probability and statistics/Емпірична функція розподілу.md",
+    "Numerical analysis, probability and statistics/Визначення кількості класів..md",
+    "Numerical analysis, probability and statistics/Статистична класифікація.md",
+    "Numerical analysis, probability and statistics/Введення в статистику.md",
+    "Numerical analysis, probability and statistics/Квантиль.md",
+    "Numerical analysis, probability and statistics/Untitled.md",
+    "CCNA2/Пересилання кадрів.md",
+    "CCNA2/VLAN.md",
+    "DB/DML/З'єднання таблиць/CROSS JOIN.md",
+    "DB/Типи даних.md",
+    "Numerical analysis, probability and statistics/Регресійний аналіз.md",
+    "FJ/Класифікація граматик.md",
+    "OOP/LSP принцип.md",
+    "FJ/FFP.md",
+    "KP/spring-annotations.md",
+    "KP/Untitled.md",
+    "Pasted image 20260114011655.png",
+    "Pasted image 20260114003347.png",
+    "Pasted image 20260114002907.png"
+  ]
+}

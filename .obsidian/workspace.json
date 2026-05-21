@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "a48ad57f25986ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "7426b709236b72c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42a7e671f5ebadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/Адміністрування/Схеми.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Схеми"
+            }
+          },
+          {
+            "id": "081ac583863b01b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/Адміністрування/Схеми.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Схеми"
+            }
+          },
+          {
+            "id": "fbc3f47f05a4260f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/Адміністрування/Ролі та привілеї.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ролі та привілеї"
+            }
+          },
+          {
+            "id": "cce7bd21759f0122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/Адміністрування/Табличний простір.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Табличний простір"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cf6f82a0827a6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef6c9a4a844dfba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5ea2c72566d6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dca3b55a5f452cef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37f6d63b431e6d40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18736329e598d1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd8866c51d26eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44edbb736218d63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete math/Бінарне відношення.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Бінарне відношення"
+            }
+          },
+          {
+            "id": "876c185787c853d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Складене висловлення.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Складене висловлення"
+            }
+          },
+          {
+            "id": "c07e2c38c69f6776",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d54206149e3e3f98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discrete math/Завдання/Мінімізація КНФ, ДНФ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Мінімізація КНФ, ДНФ"
+            }
+          },
+          {
+            "id": "8a6b01d720ee66e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cce7bd21759f0122",
+  "lastOpenFiles": [
+    "DB/Адміністрування/Ролі та привілеї.md",
+    "DB/Адміністрування/Табличний простір.md",
+    "DB/Адміністрування/Схеми.md",
+    "DB/Адміністрування/Search path схеми.md",
+    "DB/Адміністрування/Перейменування бд.md",
+    "DB/Адміністрування/Зміна власника бд.md",
+    "DB/Адміністрування/Видалення бази даних.md",
+    "DB/Адміністрування/Редагування бази даних.md",
+    "DB/Адміністрування/Створення бази даних.md",
+    "DB/Типи даних.md",
+    "DB/PL pqSQL/Тригери.md",
+    "DB/Адміністрування",
+    "DB/PL pqSQL/Обробка помилок.md",
+    "DB/PL pqSQL/Процедури.md",
+    "DB/PL pqSQL/Керуючі структури.md",
+    "DB/PL pqSQL/Функції.md",
+    "DB/PL pqSQL/%Типи.md",
+    "DB/PL pqSQL/Блоки.md",
+    "DB/DDL/PostgreSql SERIAL.md",
+    "DB/PL pqSQL/Логування та обробка помилок.md",
+    "DB/PL pqSQL/Змінні та константи.md",
+    "DB/PL pqSQL/Коментарі.md",
+    "DB/PL pqSQL/Untitled.md",
+    "DB/DML/Транзакції/ROLLBACK.md",
+    "Numerical analysis, probability and statistics/Untitled 1.md",
+    "DB/PL pqSQL",
+    "Numerical analysis, probability and statistics/Числові характеристики статистичного набору.md",
+    "Numerical analysis, probability and statistics/~syncthing~Числові характеристики статистичного набору.md.tmp",
+    "Numerical analysis, probability and statistics/Означення та формули.md",
+    "CCNA2/assets/Pasted image 20260516205533.png",
+    "CCNA2/assets/Pasted image 20260516204300.png",
+    "CCNA2/assets",
+    "CCNA2",
+    "PS/assets/Pasted image 20260516191527.png",
+    "PS/assets/Pasted image 20260516185912.png",
+    "PS/assets/Pasted image 20260516185409.png",
+    "Підрівні Канального рівня IEEE 802 LAN",
+    "DB/assets/Pasted image 20260516183620.png",
+    "DB/DDL/assets/Pasted image 20260516182457.png",
+    "DB/DDL/assets",
+    "Untitled.canvas",
+    "DB/~syncthing~Типи даних.md.tmp",
+    "Untitled 1.base",
+    "Untitled.base",
+    "DB/Множинні операції/assets/Pasted image 20260428174959.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230157.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230119.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "foldIndent": true,
+  "foldHeading": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "./assets",
+  "useMarkdownLinks": false,
+  "newFileLocation": "current",
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source"
+}

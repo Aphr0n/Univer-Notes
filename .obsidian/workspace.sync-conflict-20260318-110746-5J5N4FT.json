@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "a48ad57f25986ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "53a1cc4fed0e41ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8813e081fd78562",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-02 13.30.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-02 13.30.33.excalidraw"
+            }
+          },
+          {
+            "id": "86521a3275a53cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Regulárne výrazy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Regulárne výrazy"
+            }
+          },
+          {
+            "id": "f30a8ccf3970b21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Regulárne výrazy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Regulárne výrazy"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cf6f82a0827a6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef6c9a4a844dfba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5ea2c72566d6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "dca3b55a5f452cef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "алго",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37f6d63b431e6d40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18736329e598d1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd8866c51d26eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44edbb736218d63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete math/Бінарне відношення.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Бінарне відношення"
+            }
+          },
+          {
+            "id": "876c185787c853d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Складене висловлення.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Складене висловлення"
+            }
+          },
+          {
+            "id": "c07e2c38c69f6776",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d54206149e3e3f98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discrete math/Завдання/Мінімізація КНФ, ДНФ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Мінімізація КНФ, ДНФ"
+            }
+          },
+          {
+            "id": "8a6b01d720ee66e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f30a8ccf3970b21d",
+  "lastOpenFiles": [
+    "FJ/Deterministický konečnostavový automat.md",
+    "FJ/Automaty.md",
+    "Excalidraw/Drawing 2026-03-18 02.37.51.excalidraw.md",
+    "FJ/Regulárne výrazy.md",
+    "FJ/Úvod do formálnych jazykov..md",
+    "Excalidraw/Drawing 2026-03-02 13.30.33.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-04 11.22.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-13 15.41.12.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-14 00.25.22.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-14 18.50.00.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-01 19.23.40.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-25 11.15.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-15 17.03.18.excalidraw.md",
+    "Numerical analysis, probability and statistics/Regula-Falsi.md",
+    "Numerical analysis, probability and statistics/Regula-Falsi.sync-conflict-20260307-173036-5BEIKQW.md",
+    "Numerical analysis, probability and statistics/Округлення.md",
+    "Numerical analysis, probability and statistics/Теорема Больцано.md",
+    "Numerical analysis, probability and statistics/Корінь рівняння.md",
+    "Numerical analysis, probability and statistics/Чисельні методи розв’язування нелінійних рівнянь.md",
+    "Numerical analysis, probability and statistics/Метод Ньютона.md",
+    "Numerical analysis, probability and statistics/Умова Фур'є.md",
+    "Drawing 2026-03-11 19.46.20.excalidraw.md",
+    "Numerical analysis, probability and statistics/Untitled 1.md",
+    "Numerical analysis, probability and statistics/assets",
+    "Numerical analysis, probability and statistics/Untitled.md",
+    "Numerical analysis, probability and statistics/Помилка.md",
+    "FJ/assets/Pasted image 20260302125100.png",
+    "Excalidraw/Drawing 2025-12-20 19.01.36.excalidraw.md",
+    "FJ/assets/Pasted image 20260302125954.png",
+    "FJ/assets/Pasted image 20260302125948.png",
+    "FJ/assets/Pasted image 20260302125936.png",
+    "FJ/assets/Pasted image 20260302125928.png",
+    "FJ/assets/Pasted image 20260302125920.png",
+    "FJ/assets/Pasted image 20260302125909.png",
+    "FJ/assets/Pasted image 20260302125114.png",
+    "FJ/assets",
+    "FJ",
+    "UML-ER-library.excalidrawlib",
+    "KP",
+    "Numerical analysis, probability and statistics",
+    "APS/assets/Pasted image 20260108012140.png",
+    "APS/assets/Pasted image 20260108011456.png",
+    "APS/BASE.base",
+    "APS/Tasks/BASE.base",
+    "APS/MIPS assembly/~syncthing~Розгалудження й цикли.md.tmp",
+    "APS/Tasks",
+    "Untitled.canvas"
+  ]
+}

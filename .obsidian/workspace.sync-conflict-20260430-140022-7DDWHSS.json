@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "a48ad57f25986ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "05869bf5438ec142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9977bc7f1313d299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/DML/Підзапити/Підзапит.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Підзапит"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cf6f82a0827a6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef6c9a4a844dfba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5ea2c72566d6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dca3b55a5f452cef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37f6d63b431e6d40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18736329e598d1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd8866c51d26eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44edbb736218d63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete math/Бінарне відношення.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Бінарне відношення"
+            }
+          },
+          {
+            "id": "876c185787c853d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Складене висловлення.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Складене висловлення"
+            }
+          },
+          {
+            "id": "c07e2c38c69f6776",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d54206149e3e3f98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discrete math/Завдання/Мінімізація КНФ, ДНФ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Мінімізація КНФ, ДНФ"
+            }
+          },
+          {
+            "id": "8a6b01d720ee66e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9977bc7f1313d299",
+  "lastOpenFiles": [
+    "DB/DML/Подання/Подання.md",
+    "DB/DML/Підзапити/Підзапит.md",
+    "DB/DML/Транзакції/Транзакції.md",
+    "DB/DML/Підзапити",
+    "DB/DML/Подання/Матеріалізоване подання.md",
+    "DB/DML/Подання/WITH CHECK.md",
+    "DB/DML/Подання/CREATE VIEW.md",
+    "DB/DML/Множинні операції/Введення.md",
+    "DB/DML/Подання",
+    "DB/DML/Транзакції/SAVEPOINT.md",
+    "DB/DML/Транзакції/ROLLBACK.md",
+    "DB/DML/Транзакції/BEGIN i COMMIT.md",
+    "DB/DML/З'єднання таблиць/OUTER JOIN.md",
+    "DB/DML/Транзакції",
+    "DB/DML/З'єднання таблиць/ON i WHERE.md",
+    "DB/DML/З'єднання таблиць/INNER JOIN.md",
+    "DB/DML/З'єднання таблиць/CROSS JOIN.md",
+    "DB/DML/З'єднання таблиць/Введеня.md",
+    "DB/DML/Агрегаційні функції.md",
+    "DB/DML/З'єднання таблиць/NATURAL JOIN.md",
+    "DB/DML/SELECT.md",
+    "DB/DML/Вставка даних в таблицю.md",
+    "FJ/Введення до формальних граматик.md",
+    "FJ/Автомати.md",
+    "FJ/Детермінований кінцевий автомат.md",
+    "FJ/sk old/Regulárne výrazy.md",
+    "FJ/Введення до формальних мов.md",
+    "FJ/Регулярні вирази.md",
+    "FJ/sk old/Deterministický konečnostavový automat.md",
+    "FJ/sk old",
+    "DB/Агрегаційні функції",
+    "DB/DML/Множинні операції/assets/Pasted image 20260428174959.png",
+    "DB/DML/Множинні операції/assets",
+    "DB/DML/Множинні операції",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230157.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230119.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225805.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225713.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225314.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225204.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426224020.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426223635.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426223326.png",
+    "DB/DML/З'єднання таблиць/assets",
+    "DB/DML/З'єднання таблиць",
+    "DB/DML",
+    "Untitled.canvas"
+  ]
+}

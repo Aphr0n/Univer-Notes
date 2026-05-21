@@ -1,0 +1,534 @@
+{
+  "main": {
+    "id": "a48ad57f25986ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd79667dd959727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b273db752a24f541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KP/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9e17be07b2badbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Регулярні вирази.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Регулярні вирази"
+            }
+          },
+          {
+            "id": "2f8b6d58d0c38811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Детермінований кінцевий автомат.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Детермінований кінцевий автомат"
+            }
+          },
+          {
+            "id": "33c1164548d9bef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Округлення.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Округлення"
+            }
+          },
+          {
+            "id": "a02a392fe876ce9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Регресний аналіз.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Регресний аналіз"
+            }
+          },
+          {
+            "id": "20e72382203d6a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Коваріація.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Коваріація"
+            }
+          },
+          {
+            "id": "4478697508a39de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Коефіціент кореляції.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Коефіціент кореляції"
+            }
+          },
+          {
+            "id": "ff6a418904587905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Коефіцієнт рангової кореляції Спірмена.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Коефіцієнт рангової кореляції Спірмена"
+            }
+          },
+          {
+            "id": "9130cd5e2683bf98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Коефіцієнт рангової кореляції Кендалла.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Коефіцієнт рангової кореляції Кендалла"
+            }
+          },
+          {
+            "id": "8ead3ff2fcf8b8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Регресійний аналіз.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Регресійний аналіз"
+            }
+          },
+          {
+            "id": "d49af629141fa3d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Припущення регресійної моделі.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Припущення регресійної моделі"
+            }
+          },
+          {
+            "id": "3fb4085f20abc90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Лінійна регресія.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лінійна регресія"
+            }
+          },
+          {
+            "id": "c1b5a2d4063aa1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical analysis, probability and statistics/Регресійний аналіз.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Регресійний аналіз"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cf6f82a0827a6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef6c9a4a844dfba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5ea2c72566d6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dca3b55a5f452cef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37f6d63b431e6d40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18736329e598d1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd8866c51d26eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44edbb736218d63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete math/Бінарне відношення.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Бінарне відношення"
+            }
+          },
+          {
+            "id": "876c185787c853d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Складене висловлення.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Складене висловлення"
+            }
+          },
+          {
+            "id": "c07e2c38c69f6776",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d54206149e3e3f98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discrete math/Завдання/Мінімізація КНФ, ДНФ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Мінімізація КНФ, ДНФ"
+            }
+          },
+          {
+            "id": "8a6b01d720ee66e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c1b5a2d4063aa1d6",
+  "lastOpenFiles": [
+    "Numerical analysis, probability and statistics/Лінійна регресія.md",
+    "Numerical analysis, probability and statistics/Нелінійна регресія.md",
+    "Numerical analysis, probability and statistics/Припущення регресійної моделі.md",
+    "Numerical analysis, probability and statistics/Регресійний аналіз.md",
+    "Numerical analysis, probability and statistics/Коефіцієнт рангової кореляції Кендалла.md",
+    "Numerical analysis, probability and statistics/Коефіцієнт рангової кореляції Спірмена.md",
+    "Numerical analysis, probability and statistics/Коефіціент кореляції.md",
+    "Numerical analysis, probability and statistics/Коваріація.md",
+    "Numerical analysis, probability and statistics/Регресний аналіз.md",
+    "Numerical analysis, probability and statistics/Округлення.md",
+    "DB/DML/З'єднання таблиць/INNER JOIN.md",
+    "DB/DML/З'єднання таблиць/Введеня.md",
+    "DB/DML/З'єднання таблиць/CROSS JOIN.md",
+    "DB/DML/Множинні операції/UNION i UNION ALL.md",
+    "FJ/FFP.md",
+    "FJ/Класифікація граматик.md",
+    "FJ/BNF, EBNF.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "DB/DML/Підзапити/Підзапит.md",
+    "Excalidraw/Drawing 2026-05-13 17.39.05.excalidraw.md",
+    "FJ/Детермінований кінцевий автомат.md",
+    "FJ/Регулярні вирази.md",
+    "Excalidraw/Drawing 2026-05-08 19.00.54.excalidraw.md",
+    "forms.excalidrawlib",
+    "icons.excalidrawlib",
+    "KP/Untitled.md",
+    "FJ/Введення до формальних граматик.md",
+    "PS/zapocet/Untitled.md",
+    "PS/zapocet",
+    "DB/DML/З'єднання таблиць/OUTER JOIN.md",
+    "FJ/sk old",
+    "DB/Агрегаційні функції",
+    "DB/Множинні операції/assets/Pasted image 20260428174959.png",
+    "DB/Множинні операції/assets",
+    "DB/Множинні операції",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230157.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230119.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225805.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225713.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225314.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426225204.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426224020.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426223635.png",
+    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426223326.png",
+    "DB/DML/З'єднання таблиць/assets"
+  ]
+}

@@ -4,155 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63c1b8e8a5f32544",
+        "id": "2bea495db866b5d7",
         "type": "tabs",
         "children": [
           {
-            "id": "80bb904a7bff3105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FJ/НКА/Конструкція НКА з регулярного виразу.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Конструкція НКА з регулярного виразу"
-            }
-          },
-          {
-            "id": "e4ef875a33d5e67d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FJ/Мови та транслятори.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Мови та транслятори"
-            }
-          },
-          {
-            "id": "b98002a5f7b9ba86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FJ/Лема про накачку.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Лема про накачку"
-            }
-          },
-          {
-            "id": "04627bc73ef2893e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FJ/Мовні процесори та компілятори.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Мовні процесори та компілятори"
-            }
-          },
-          {
-            "id": "6a8faa8cc758b979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FJ/Лексичний аналіз.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Лексичний аналіз"
-            }
-          },
-          {
-            "id": "bac4e38407e6f9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FJ/Мовні процесори та компілятори.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Мовні процесори та компілятори"
-            }
-          },
-          {
-            "id": "7c34a00516a401cf",
+            "id": "62634b4944d9d047",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Синтаксичний аналіз"
             }
-          },
-          {
-            "id": "7a689dbea3d22f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FJ/Структурний вигляд компілятора.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Структурний вигляд компілятора"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -361,46 +192,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c34a00516a401cf",
+  "active": "62634b4944d9d047",
   "lastOpenFiles": [
-    "FJ/assets/Pasted image 20260524002117.png",
-    "FJ/assets/Pasted image 20260524001017.png",
     "FJ/Основні поняття мовних процесорів.md",
     "FJ/Мовні процесори та компілятори.md",
-    "FJ/Синтаксичний аналіз.md",
-    "FJ/Лексичний аналіз.md",
-    "FJ/assets/Pasted image 20260523234129.png",
     "FJ/Структурний вигляд компілятора.md",
+    "FJ/Лексичний аналіз.md",
+    "FJ/Синтаксичний аналіз.md",
+    "FJ/Регулярні мови.md",
+    "FJ/Класифікація граматик.md",
+    "FJ/Мова граматики.md",
+    "FJ/Рядок.md",
+    "FJ/Абетка.md",
+    "FJ/Формальні мови та граматики.md",
+    "FJ/Untitled.md",
+    "FJ/НКА/Недетермінований кінцевий автомат.md",
+    "FJ/ДКА/Пряма конструкція ДКА з регулярного виразу.md",
+    "FJ/ДКА/Мінімізація автомата.md",
+    "FJ/ДКА/Мова, розпізнавана автоматом.md",
+    "FJ/ДКА/Перехідна функція.md",
+    "FJ/ДКА/Детермінований кінцевий автомат.md",
+    "FJ/assets/Pasted image 20260523230435.png",
+    "FJ/assets/Pasted image 20260523225447.png",
+    "FJ/assets/Pasted image 20260523192228.png",
+    "KP/Untitled.md",
+    "KP/spring-annotations.md",
+    "FJ/assets/Pasted image 20260524002117.png",
+    "FJ/assets/Pasted image 20260524001017.png",
+    "FJ/assets/Pasted image 20260523234129.png",
     "FJ/assets/Pasted image 20260523231722.png",
     "FJ/assets/Pasted image 20260523230546.png",
-    "FJ/assets/Pasted image 20260523230435.png",
     "FJ/assets/Pasted image 20260523230212.png",
-    "FJ/assets/Pasted image 20260523225447.png",
     "FJ/Лема про накачку.md",
-    "FJ/assets/Pasted image 20260523192228.png",
     "FJ/Мови та транслятори.md",
     "FJ/НКА/Детермініація НСКА – мотивація.md",
     "FJ/НКА/Конструкція НКА з регулярного виразу.md",
     "FJ/НКА/assets/Pasted image 20260523184057.png",
-    "FJ/НКА/assets/Pasted image 20260523183917.png",
     "FJ/НКА/assets",
     "Excalidraw/Drawing 2026-05-23 18.33.24.excalidraw.md",
     "FJ/НКА/Функція переходів НКА.md",
-    "FJ/НКА/Недетермінований кінцевий автомат.md",
-    "FJ/Формальні мови та граматики.md",
-    "FJ/Відношення між ДКА та НСКА.md",
-    "FJ/ДКА/Детермінований кінцевий автомат.md",
-    "FJ/дет.md",
-    "FJ/Регулярні мови.md",
     "FJ/НКА",
-    "FJ/ДКА/Мінімізація автомата.md",
-    "FJ/ДКА/Мова, розпізнавана автоматом.md",
-    "FJ/Бржозовського деривація.md",
-    "FJ/Абетка.md",
-    "FJ/ДКА/Пряма конструкція ДКА з регулярного виразу.md",
-    "FJ/Регулярні вирази.md",
-    "FJ/ДКА/Перехідна функція.md",
-    "FJ/ДКА.md",
     "FJ/ДКА",
     "DB/Адміністрування",
     "DB/PL pqSQL",

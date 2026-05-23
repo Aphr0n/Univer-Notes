@@ -1,15 +1,13 @@
-inoremap <C-j> <Esc>
-vnoremap <C-j> <Esc>
+" Have j and k navigate visual lines rather than logical ones
+nmap j gj
+nmap k gk
 
-nnoremap <C-h> <C-w>h
-nnoremap <C-l> <C-w>l
-nnoremap <C-k> <C-w>k
-nnoremap <C-j> <C-w>j
+" Quickly remove search highlights
+nmap <F9> :nohl<CR>
 
-nnoremap j gj
-vnoremap k kg
-nnoremap k gk
-vnoremap j gj
+" Yank to system clipboard
+set clipboard=unnamed
 
-nnoremap p <C-v>
-vnoremap y <C-c>
+" Also works
+nmap <C-w>h :obcommand<space>workspace:split-horizontal<CR>
+

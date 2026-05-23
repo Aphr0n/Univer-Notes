@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7426b709236b72c5",
+        "id": "63c1b8e8a5f32544",
         "type": "tabs",
         "children": [
           {
-            "id": "b42a7e671f5ebadd",
+            "id": "80bb904a7bff3105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/Адміністрування/Схеми.md",
+                "file": "FJ/НКА/Конструкція НКА з регулярного виразу.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Схеми"
+              "title": "Конструкція НКА з регулярного виразу"
             }
           },
           {
-            "id": "081ac583863b01b2",
+            "id": "e4ef875a33d5e67d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/Адміністрування/Схеми.md",
+                "file": "FJ/Мови та транслятори.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Схеми"
+              "title": "Мови та транслятори"
             }
           },
           {
-            "id": "fbc3f47f05a4260f",
+            "id": "b98002a5f7b9ba86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/Адміністрування/Ролі та привілеї.md",
+                "file": "FJ/Лема про накачку.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ролі та привілеї"
+              "title": "Лема про накачку"
             }
           },
           {
-            "id": "cce7bd21759f0122",
+            "id": "04627bc73ef2893e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/Адміністрування/Табличний простір.md",
+                "file": "FJ/Мовні процесори та компілятори.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Табличний простір"
+              "title": "Мовні процесори та компілятори"
+            }
+          },
+          {
+            "id": "6a8faa8cc758b979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Лексичний аналіз.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лексичний аналіз"
+            }
+          },
+          {
+            "id": "bac4e38407e6f9df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Мовні процесори та компілятори.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Мовні процесори та компілятори"
+            }
+          },
+          {
+            "id": "7c34a00516a401cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Синтаксичний аналіз.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Синтаксичний аналіз"
+            }
+          },
+          {
+            "id": "7a689dbea3d22f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Структурний вигляд компілятора.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Структурний вигляд компілятора"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,7 +345,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,54 +361,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cce7bd21759f0122",
+  "active": "7c34a00516a401cf",
   "lastOpenFiles": [
-    "DB/Адміністрування/Ролі та привілеї.md",
-    "DB/Адміністрування/Табличний простір.md",
-    "DB/Адміністрування/Схеми.md",
-    "DB/Адміністрування/Search path схеми.md",
-    "DB/Адміністрування/Перейменування бд.md",
-    "DB/Адміністрування/Зміна власника бд.md",
-    "DB/Адміністрування/Видалення бази даних.md",
-    "DB/Адміністрування/Редагування бази даних.md",
-    "DB/Адміністрування/Створення бази даних.md",
-    "DB/Типи даних.md",
-    "DB/PL pqSQL/Тригери.md",
+    "FJ/assets/Pasted image 20260524002117.png",
+    "FJ/assets/Pasted image 20260524001017.png",
+    "FJ/Основні поняття мовних процесорів.md",
+    "FJ/Мовні процесори та компілятори.md",
+    "FJ/Синтаксичний аналіз.md",
+    "FJ/Лексичний аналіз.md",
+    "FJ/assets/Pasted image 20260523234129.png",
+    "FJ/Структурний вигляд компілятора.md",
+    "FJ/assets/Pasted image 20260523231722.png",
+    "FJ/assets/Pasted image 20260523230546.png",
+    "FJ/assets/Pasted image 20260523230435.png",
+    "FJ/assets/Pasted image 20260523230212.png",
+    "FJ/assets/Pasted image 20260523225447.png",
+    "FJ/Лема про накачку.md",
+    "FJ/assets/Pasted image 20260523192228.png",
+    "FJ/Мови та транслятори.md",
+    "FJ/НКА/Детермініація НСКА – мотивація.md",
+    "FJ/НКА/Конструкція НКА з регулярного виразу.md",
+    "FJ/НКА/assets/Pasted image 20260523184057.png",
+    "FJ/НКА/assets/Pasted image 20260523183917.png",
+    "FJ/НКА/assets",
+    "Excalidraw/Drawing 2026-05-23 18.33.24.excalidraw.md",
+    "FJ/НКА/Функція переходів НКА.md",
+    "FJ/НКА/Недетермінований кінцевий автомат.md",
+    "FJ/Формальні мови та граматики.md",
+    "FJ/Відношення між ДКА та НСКА.md",
+    "FJ/ДКА/Детермінований кінцевий автомат.md",
+    "FJ/дет.md",
+    "FJ/Регулярні мови.md",
+    "FJ/НКА",
+    "FJ/ДКА/Мінімізація автомата.md",
+    "FJ/ДКА/Мова, розпізнавана автоматом.md",
+    "FJ/Бржозовського деривація.md",
+    "FJ/Абетка.md",
+    "FJ/ДКА/Пряма конструкція ДКА з регулярного виразу.md",
+    "FJ/Регулярні вирази.md",
+    "FJ/ДКА/Перехідна функція.md",
+    "FJ/ДКА.md",
+    "FJ/ДКА",
     "DB/Адміністрування",
-    "DB/PL pqSQL/Обробка помилок.md",
-    "DB/PL pqSQL/Процедури.md",
-    "DB/PL pqSQL/Керуючі структури.md",
-    "DB/PL pqSQL/Функції.md",
-    "DB/PL pqSQL/%Типи.md",
-    "DB/PL pqSQL/Блоки.md",
-    "DB/DDL/PostgreSql SERIAL.md",
-    "DB/PL pqSQL/Логування та обробка помилок.md",
-    "DB/PL pqSQL/Змінні та константи.md",
-    "DB/PL pqSQL/Коментарі.md",
-    "DB/PL pqSQL/Untitled.md",
-    "DB/DML/Транзакції/ROLLBACK.md",
-    "Numerical analysis, probability and statistics/Untitled 1.md",
     "DB/PL pqSQL",
-    "Numerical analysis, probability and statistics/Числові характеристики статистичного набору.md",
     "Numerical analysis, probability and statistics/~syncthing~Числові характеристики статистичного набору.md.tmp",
-    "Numerical analysis, probability and statistics/Означення та формули.md",
-    "CCNA2/assets/Pasted image 20260516205533.png",
-    "CCNA2/assets/Pasted image 20260516204300.png",
     "CCNA2/assets",
     "CCNA2",
-    "PS/assets/Pasted image 20260516191527.png",
-    "PS/assets/Pasted image 20260516185912.png",
-    "PS/assets/Pasted image 20260516185409.png",
     "Підрівні Канального рівня IEEE 802 LAN",
-    "DB/assets/Pasted image 20260516183620.png",
-    "DB/DDL/assets/Pasted image 20260516182457.png",
     "DB/DDL/assets",
-    "Untitled.canvas",
-    "DB/~syncthing~Типи даних.md.tmp",
-    "Untitled 1.base",
-    "Untitled.base",
-    "DB/Множинні операції/assets/Pasted image 20260428174959.png",
-    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230157.png",
-    "DB/DML/З'єднання таблиць/assets/Pasted image 20260426230119.png"
+    "Untitled.canvas"
   ]
 }

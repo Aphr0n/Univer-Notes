@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FJ/Мова граматики.md",
+                "file": "FJ/Синтаксичний аналіз.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Мова граматики"
+              "title": "Синтаксичний аналіз"
             }
           }
         ],
@@ -191,6 +191,7 @@
   },
   "active": "e94d31bfbe69c0ca",
   "lastOpenFiles": [
+    "FJ/Мова граматики.md",
     "FJ/Граматика.md",
     "FJ/Формальна мова над абеткою А.md",
     "FJ/Рядок.md",
@@ -217,7 +218,6 @@
     "DB/Адміністрування/Search path схеми.md",
     "DB/Адміністрування",
     "DB/PL pqSQL/Тригери.md",
-    "DB/PL pqSQL/Обробка помилок.md",
     "Pasted image 20260114011655.png",
     "Pasted image 20260114003347.png",
     "Pasted image 20260114002907.png"

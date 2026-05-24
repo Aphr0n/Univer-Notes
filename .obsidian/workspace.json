@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FJ/Синтаксичний аналіз.md",
+                "file": "FJ/Регулярні вирази.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Синтаксичний аналіз"
+              "title": "Регулярні вирази"
+            }
+          },
+          {
+            "id": "6e87968b2d210291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Трансформація безконтекстових граматик.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Трансформація безконтекстових граматик"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,20 +216,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62634b4944d9d047",
+  "active": "6e87968b2d210291",
   "lastOpenFiles": [
+    "FJ/Регулярні вирази.md",
+    "FJ/Трансформація безконтекстових граматик.md",
+    "FJ/Синтаксичний аналіз.md",
     "FJ/Основні поняття мовних процесорів.md",
     "FJ/Мовні процесори та компілятори.md",
     "FJ/Структурний вигляд компілятора.md",
     "FJ/Лексичний аналіз.md",
-    "FJ/Синтаксичний аналіз.md",
     "FJ/Регулярні мови.md",
     "FJ/Класифікація граматик.md",
     "FJ/Мова граматики.md",
     "FJ/Рядок.md",
     "FJ/Абетка.md",
     "FJ/Формальні мови та граматики.md",
-    "FJ/Untitled.md",
     "FJ/НКА/Недетермінований кінцевий автомат.md",
     "FJ/ДКА/Пряма конструкція ДКА з регулярного виразу.md",
     "FJ/ДКА/Мінімізація автомата.md",
@@ -230,7 +255,6 @@
     "FJ/НКА/assets/Pasted image 20260523184057.png",
     "FJ/НКА/assets",
     "Excalidraw/Drawing 2026-05-23 18.33.24.excalidraw.md",
-    "FJ/НКА/Функція переходів НКА.md",
     "FJ/НКА",
     "FJ/ДКА",
     "DB/Адміністрування",

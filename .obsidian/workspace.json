@@ -54,9 +54,273 @@
               "icon": "lucide-file",
               "title": "Трансформація безконтекстових граматик"
             }
+          },
+          {
+            "id": "da5a4cc7a992a502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "309c09e2696bfbe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f7ec0fda8956ad1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Граматика.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Граматика"
+            }
+          },
+          {
+            "id": "1bad07f4a3518314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Синтаксичний аналіз зверху вниз (top-down).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Синтаксичний аналіз зверху вниз (top-down)"
+            }
+          },
+          {
+            "id": "94a71a6f4a590d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Предиктивний парсер і вимоги до LL-граматики.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Предиктивний парсер і вимоги до LL-граматики"
+            }
+          },
+          {
+            "id": "6aaf8c1a4735b9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/First Follow Predict.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "First Follow Predict"
+            }
+          },
+          {
+            "id": "0ed762935fd1c7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Умова LL(1) та конфлікти.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Умова LL(1) та конфлікти"
+            }
+          },
+          {
+            "id": "32b10a2d68463818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Умова LL(1) та конфлікти.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Умова LL(1) та конфлікти"
+            }
+          },
+          {
+            "id": "62c7e8d9f868c82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Межі безконтекстних мов.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Межі безконтекстних мов"
+            }
+          },
+          {
+            "id": "f67ab682d1f4bfbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Лексичний аналіз.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лексичний аналіз"
+            }
+          },
+          {
+            "id": "7adbbb04f32cc153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FJ/Порівняння моделей пам’яті.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Порівняння моделей пам’яті"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -88,7 +352,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "first",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,15 +480,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e87968b2d210291",
+  "active": "7adbbb04f32cc153",
   "lastOpenFiles": [
-    "FJ/Регулярні вирази.md",
-    "FJ/Трансформація безконтекстових граматик.md",
-    "FJ/Синтаксичний аналіз.md",
+    "FJ/Машини Тюрінга.md",
+    "FJ/Порівняння моделей пам’яті.md",
+    "FJ/Лексичний аналіз.md",
     "FJ/Основні поняття мовних процесорів.md",
+    "FJ/Трансформація безконтекстових граматик.md",
+    "FJ/Untitled.md",
+    "FJ/Межі безконтекстних мов.md",
+    "FJ/Умова LL(1) та конфлікти.md",
+    "FJ/First Follow Predict.md",
+    "FJ/Синтаксичний аналіз.md",
+    "FJ/Предиктивний парсер і вимоги до LL-граматики.md",
+    "FJ/Синтаксичний аналіз зверху вниз (top-down).md",
+    "FJ/Граматика.md",
+    "FJ/Безконтекстна граматика і деривація.md",
+    "FJ/Стек.md",
+    "FJ/Регулярні вирази.md",
     "FJ/Мовні процесори та компілятори.md",
     "FJ/Структурний вигляд компілятора.md",
-    "FJ/Лексичний аналіз.md",
     "FJ/Регулярні мови.md",
     "FJ/Класифікація граматик.md",
     "FJ/Мова граматики.md",
@@ -233,28 +508,17 @@
     "FJ/Формальні мови та граматики.md",
     "FJ/НКА/Недетермінований кінцевий автомат.md",
     "FJ/ДКА/Пряма конструкція ДКА з регулярного виразу.md",
-    "FJ/ДКА/Мінімізація автомата.md",
-    "FJ/ДКА/Мова, розпізнавана автоматом.md",
-    "FJ/ДКА/Перехідна функція.md",
-    "FJ/ДКА/Детермінований кінцевий автомат.md",
     "FJ/assets/Pasted image 20260523230435.png",
     "FJ/assets/Pasted image 20260523225447.png",
     "FJ/assets/Pasted image 20260523192228.png",
-    "KP/Untitled.md",
-    "KP/spring-annotations.md",
     "FJ/assets/Pasted image 20260524002117.png",
     "FJ/assets/Pasted image 20260524001017.png",
     "FJ/assets/Pasted image 20260523234129.png",
     "FJ/assets/Pasted image 20260523231722.png",
     "FJ/assets/Pasted image 20260523230546.png",
     "FJ/assets/Pasted image 20260523230212.png",
-    "FJ/Лема про накачку.md",
-    "FJ/Мови та транслятори.md",
-    "FJ/НКА/Детермініація НСКА – мотивація.md",
-    "FJ/НКА/Конструкція НКА з регулярного виразу.md",
     "FJ/НКА/assets/Pasted image 20260523184057.png",
     "FJ/НКА/assets",
-    "Excalidraw/Drawing 2026-05-23 18.33.24.excalidraw.md",
     "FJ/НКА",
     "FJ/ДКА",
     "DB/Адміністрування",

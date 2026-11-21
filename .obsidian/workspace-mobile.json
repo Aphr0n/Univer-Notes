@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical analysis, probability and statistics/Метод Ньютона.md",
+                "file": "UX UI/check proto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Метод Ньютона"
+              "title": "check proto"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FJ/Мова граматики.md",
+                "file": "BP/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Мова граматики"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,10 +71,12 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byCreatedTimeReverse",
-            "autoReveal": true
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
-          "title": "Файловий менеджер"
+          "title": "Files"
         }
       },
       {
@@ -133,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "FJ/Рядок.md",
+            "file": "FJ/Граматика.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,45 +179,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false,
-      "bases:Створити нову базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "agenda-tasks:Agenda": false,
+      "agenda-tasks:New task": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e94d31bfbe69c0ca",
+  "active": "2f1a7360ba698001",
   "lastOpenFiles": [
-    "FJ/Формальна мова над абеткою А.md",
-    "FJ/ДКА/Мова, розпізнавана автоматом.md",
-    "FJ/ДКА/Детермінований кінцевий автомат.md",
-    "FJ/Рядок.md",
-    "FJ/Машини Тюрінга.md",
-    "FJ/Порівняння моделей пам’яті.md",
-    "FJ/Бржозовського деривація.md",
-    "FJ/Лексичний аналіз.md",
-    "FJ/Абетка.md",
-    "FJ/Мови та транслятори.md",
-    "FJ/Синтаксичний аналіз.md",
-    "FJ/Мова граматики.md",
+    "Manažment/Kaua.md",
+    "BP/CPM.drawio",
+    "Manažment/vim user.jpg",
+    "UX UI/1 odovzdavka znenia.md",
+    "UX UI/check proto.md",
+    "BP/Untitled Diagram.drawio",
+    "TaskNotes/Views/calendar-default.base",
+    "Untitled.md",
+    "ISI/Untitled.md",
+    "ISI/Untitled 1.md",
+    "Clippings/Your First Machine Learning Model.md",
     "FJ/Граматика.md",
-    "FJ/Untitled.md",
-    "DB/DML/Множинні операції/EXCEPT.md",
-    "DB/DML/SELECT.md",
-    "DB/DML/Подання/Подання.md",
-    "DB/DML/Подання/Матеріалізоване подання.md",
-    "DB/DML/Підзапити/Підзапит.md",
-    "DB/DML/З'єднання таблиць/INNER JOIN.md",
-    "DB/DML/З'єднання таблиць/Введеня.md",
-    "DB/DML/З'єднання таблиць/OUTER JOIN.md",
-    "DB/DML/З'єднання таблиць/NATURAL JOIN.md",
-    "DB/DML/Множинні операції/INTERSECT.md",
-    "DB/Адміністрування/Ролі та привілеї.md",
-    "DB/Адміністрування/Табличний простір.md",
+    "FJ/Лінійно обмежений автомат.md",
+    "FJ/Трансформація безконтекстових граматик.md",
+    "FJ/Машина Тьюрінга.md",
+    "FJ/Стековий автомат.md",
+    "FJ/Мова генерована граматикою.md",
+    "FJ/Формальні мови та граматики.md",
+    "FJ/Формальна мова над алфавітом А.md",
+    "FJ/Класифікаця граматик.md",
+    "FJ/Регулярні мови.md",
+    "FJ/Деривація Бжозовського.md",
+    "FJ/Детермінізація НКА.md",
+    "FJ/ДКА.md",
+    "FJ/НКА.md",
+    "FJ/LL парсування.md",
+    "FJ/Лема про накачку.md",
+    "FJ/Синтаксичний аналіз.md",
+    "FJ/LL парсер.md",
+    "FJ/Безконтекстна граматика.md",
     "DB/Адміністрування",
     "Pasted image 20260114011655.png",
     "Pasted image 20260114003347.png",

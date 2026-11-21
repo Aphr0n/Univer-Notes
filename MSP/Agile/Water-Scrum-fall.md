@@ -1,0 +1,16 @@
+Без чітких вказівок багато гнучких команд припускаються поширених помилок, таких як застосування підходу «Water-Scrum-Fall», за яким спочатку відбувається традиційна, надмірно обтяжлива фаза запуску проєкту, за якою слідує фаза розробки за методом Scrum, а завершується все надмірно обтяжливою традиційною фазою впровадження. Ці обтяжливі фази запуску та реалізації проєкту збільшують час і вартість реалізації, а також знижують ймовірність того, що команда створить те, чого насправді бажають зацікавлені сторони.
+
+Термін «Water-Scrum-Fall» є наслідком невідповідності термінології. Багато термінів Scrum звучать безглуздо — адже ви не «спринтуєте» протягом усього проєкту, та й що взагалі таке «Scrum Master»?
+ DAD: Проста зміна термінології (наприклад, «ітерація» замість «спринт», «керівник команди» замість «Scrum Master») дає людям чіткий сигнал про те, що ми робимо черговий стрибок у вдосконаленні процесів! Іншими словами Water-Scrum-fall може виникати через те що терміни звучать так ніби підходять лише для розробників а не для всієї організації, через що Agile впроваджують лише в розробку а решта організації залишається при Waterfall
+ 
+# Цикл доставки без брендингу
+![[Pasted image 20261121181738.png]]
+
+| Goals for the Inception Phase                                                                                                                                                                                                                                        | Goals for Construction Phase Iterations                                                                                                                                       | Goals for the Transition Phase                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- |
+| - Form initial team<br>- Develop common project vision<br>- Align with enterprise direction<br>- Explore initial scope<br>- Identify initial technical strategy<br>- Develop initial release plan<br>- Form work environment<br>- Secure funding<br>- Identify risks | - Produce a potentially consumable solution<br>- Address changing stakeholder needs<br>- Move closer to deployable release<br>- Improve quality<br>- Prove architecture early | - Ensure the solution is consumable<br>- Deploy the solution |
+
+| Ongoing Goals                                                          |                                                                                                                     |
+| :--------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| - Fulfill the project mission<br>- Grow team members<br>- Address risk | - Improve team process and environment<br>- Leverage and enhance existing infrastructure<br>- Coordinate activities |
+

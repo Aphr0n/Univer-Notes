@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX UI/check proto.md",
+                "file": "MSP/Development models/Unified process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "check proto"
+              "title": "Unified process"
             }
           },
           {
@@ -186,27 +186,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "agenda-tasks:Agenda": false,
-      "agenda-tasks:New task": false,
-      "tasknotes:Open mini calendar view": false,
-      "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
-      "tasknotes:Open agenda view": false,
-      "tasknotes:Open Kanban board": false,
-      "tasknotes:Open Pomodoro timer": false,
-      "tasknotes:Open Pomodoro statistics": false,
-      "tasknotes:Create new task": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2f1a7360ba698001",
   "lastOpenFiles": [
+    "MSP/Development models/Cleanroom модель.md",
+    "MSP/FP/VAF і AFP.md",
+    "MSP/FP/COCOMO II.md",
+    "MSP/FP/Intermediate COCOMO.md",
+    "MSP/FP/COCOMO.md",
+    "UX UI/check proto.md",
     "Manažment/Kaua.md",
     "BP/CPM.drawio",
     "Manažment/vim user.jpg",
     "UX UI/1 odovzdavka znenia.md",
-    "UX UI/check proto.md",
     "BP/Untitled Diagram.drawio",
     "TaskNotes/Views/calendar-default.base",
     "Untitled.md",
@@ -227,11 +222,6 @@
     "FJ/Детермінізація НКА.md",
     "FJ/ДКА.md",
     "FJ/НКА.md",
-    "FJ/LL парсування.md",
-    "FJ/Лема про накачку.md",
-    "FJ/Синтаксичний аналіз.md",
-    "FJ/LL парсер.md",
-    "FJ/Безконтекстна граматика.md",
     "DB/Адміністрування",
     "Pasted image 20260114011655.png",
     "Pasted image 20260114003347.png",

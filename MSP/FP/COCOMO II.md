@@ -16,7 +16,6 @@ COCOMO 81 орієнтувалася переважно на традиційн�
 Замість KLOC або Function Points вона використовує Object Points — об'єктні точки.
 
 ### Object Points
-
 Object Points оцінюють кількість і складність:
 - екранів (Screens);
 - звітів (Reports);

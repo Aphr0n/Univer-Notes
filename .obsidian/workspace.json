@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3d3daad4e98608b",
+        "id": "6ee1d876155bd6b4",
         "type": "tabs",
         "children": [
           {
-            "id": "0a8853cfc66acde5",
+            "id": "203e8c0459412966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Development models/Lean розробка.md",
+                "file": "ISI/sklearn cheetsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lean розробка"
+              "title": "sklearn cheetsheet"
             }
           },
           {
-            "id": "ea61f649a3b3452f",
+            "id": "7f51d17d0b984990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/FP/Емпіричні правила.md",
+                "file": "ISI/Decision Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Емпіричні правила"
+              "title": "Decision Tree"
             }
           },
           {
-            "id": "038d3cb9736b2f95",
+            "id": "fbea27a777df9aa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/IDK how to name this piece of dogshit/Domain and problem analysis.md",
+                "file": "ISI/Random Forest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Domain and problem analysis"
+              "title": "Random Forest"
             }
           },
           {
-            "id": "a2ab37f417741e4b",
+            "id": "f9aa0c0db54f40d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/IDK how to name this piece of dogshit/Управління «специфікацією».md",
+                "file": "ISI/KNN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Управління «специфікацією»"
+              "title": "KNN"
             }
           },
           {
-            "id": "eb813c51d618014b",
+            "id": "f48f240feffbbbb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/IDK how to name this piece of dogshit/Управління розробкою.md",
+                "file": "ISI/Прокляття розмірності.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Управління розробкою"
+              "title": "Прокляття розмірності"
             }
           },
           {
-            "id": "46c7ff27539f5581",
+            "id": "d231058d575689dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Soft skills/Human resources.md",
+                "file": "ISI/XGBoost.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Human resources"
+              "title": "XGBoost"
             }
           },
           {
-            "id": "91070acba18117e2",
+            "id": "f46365e5ce95521f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Testing/Управління «тестуванням» (Testing).md",
+                "file": "ISI/Базова термінологія.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,16 +172,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Управління «тестуванням» (Testing)"
+              "title": "Базова термінологія"
             }
           },
           {
-            "id": "fa108d6fd59f1f62",
+            "id": "003a7a87a3458495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/IDK how to name this piece of dogshit/Untitled 1.md",
+                "file": "ISI/Дані.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +196,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Дані"
+            }
+          },
+          {
+            "id": "eca5a99d6d0ae317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISI/Метрики оцінювання класифікації.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Метрики оцінювання класифікації"
+            }
+          },
+          {
+            "id": "fd8ada0ea088b980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISI/Лінійна регресія.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лінійна регресія"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -364,54 +412,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91070acba18117e2",
+  "active": "003a7a87a3458495",
   "lastOpenFiles": [
+    "ISI/Базова термінологія.md",
+    "ISI/Дані.md",
+    "ISI/Метрики оцінювання класифікації.md",
+    "ISI/Лінійна регресія.md",
+    "ISI/No Free Lunch Theorem.md",
+    "ISI/XGBoost.md",
+    "ISI/TabNet.md",
+    "ISI/Прокляття розмірності.md",
+    "ISI/KNN.md",
+    "ISI/Random Forest.md",
+    "ISI/assets/Pasted image 20261126005951.png",
+    "ISI/Decision Tree.md",
+    "ISI/SVM.md",
+    "ISI/assets/Pasted image 20261126004710.png",
+    "ISI/sklearn cheetsheet.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "ISI/Перцептрон.md",
+    "ISI/Конвергенція.md",
+    "ISI/Функція активації.md",
+    "ISI/assets/Pasted image 20261125235456.png",
+    "ISI/Види навчання.md",
+    "ISI/Валідація моделі.md",
+    "ISI/Дерево рішень.md",
+    "ISI/Перетренування й недотренування моделі.md",
+    "ISI/Lectures/2/Untitled.md",
+    "ISI/Lectures/2",
+    "UX UI/check proto.md",
+    "ISI/Lectures",
+    "UX UI/Drawing 2026-10-21 07.32.47.excalidraw.md",
+    "UX UI/1 odovzdavka znenia.md",
+    "MSP/IDK how to name this piece of dogshit/Untitled 1.md",
+    "Excalidraw/Drawing 2026-11-22 20.35.32.excalidraw.md",
     "MSP/Testing/assets/Pasted image 20261122012807.png",
     "MSP/Testing/assets/Pasted image 20261122012739.png",
     "MSP/Testing/assets/Pasted image 20261122012253.png",
     "MSP/Testing/assets",
-    "MSP/Soft skills/Human resources.md",
-    "MSP/Testing/Управління «тестуванням» (Testing).md",
     "MSP/Testing",
     "MSP/Soft skills/assets/Pasted image 20261122000013.png",
     "MSP/Soft skills/assets",
-    "MSP/IDK how to name this piece of dogshit/Управління розробкою.md",
-    "MSP/IDK how to name this piece of dogshit/Управління «специфікацією».md",
-    "MSP/IDK how to name this piece of dogshit/Untitled 1.md",
     "MSP/Soft skills",
     "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121233906.png",
     "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121233824.png",
     "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121233801.png",
-    "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121233721.png",
-    "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121232334.png",
-    "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121231547.png",
-    "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121231520.png",
     "MSP/IDK how to name this piece of dogshit/assets",
-    "MSP/IDK how to name this piece of dogshit/Domain and problem analysis.md",
-    "MSP/IDK how to name this piece of dogshit/Що таке «специфікація»?.md",
-    "MSP/FP/Емпіричні правила.md",
     "MSP/IDK how to name this piece of dogshit",
-    "MSP/FP/Intermediate COCOMO.md",
-    "MSP/FP/Effort і Duration.md",
-    "MSP/FP/COCOMO.md",
-    "MSP/FP/LOC FP.md",
-    "MSP/FP/VAF і AFP.md",
-    "MSP/FP/UFP.md",
-    "MSP/FP/Цикломатична складність.md",
-    "MSP/FP/Метрика.md",
-    "MSP/Development models/Scrum.md",
-    "MSP/FP/FP.md",
-    "MSP/Project estimation/Закони оцінки.md",
-    "MSP/Project estimation/What if аналіз.md",
-    "MSP/Project estimation/Параметричне оцінювання.md",
-    "MSP/Project estimation/Оцінювання аналогами.md",
-    "MSP/Project estimation/Top-down i bottom-up.md",
-    "MSP/Project estimation/Delphi technique.md",
-    "MSP/Project estimation/Методи оцінювання.md",
     "MSP/Project estimation/assets",
-    "MSP/Project estimation",
-    "MSP/Agile/assets",
-    "MSP/Agile",
     "Untitled.canvas"
   ]
 }

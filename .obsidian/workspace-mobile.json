@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Development models/Unified process.md",
-                "mode": "source",
+                "file": "MSP/IDK how to name this piece of dogshit/Управління розробкою.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unified process"
+              "title": "Управління розробкою"
             }
           },
           {
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "FJ/Граматика.md",
+            "file": "MSP/FP/Емпіричні правила.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Зворотні посилання"
+          "title": "Backlinks"
         }
       },
       {
@@ -192,11 +192,21 @@
   },
   "active": "2f1a7360ba698001",
   "lastOpenFiles": [
-    "MSP/Development models/Cleanroom модель.md",
-    "MSP/FP/VAF і AFP.md",
+    "MSP/Testing/Управління «тестуванням» (Testing).md",
+    "MSP/Testing/validation.md",
+    "MSP/IDK how to name this piece of dogshit/Управління «специфікацією».md",
+    "MSP/FP/Емпіричні правила.md",
+    "MSP/FP/FP.md",
     "MSP/FP/COCOMO II.md",
     "MSP/FP/Intermediate COCOMO.md",
     "MSP/FP/COCOMO.md",
+    "MSP/IDK how to name this piece of dogshit/assets/Pasted image 20261121225654.png",
+    "MSP/IDK how to name this piece of dogshit/Domain and problem analysis.md",
+    "MSP/FP/Цикломатична складність.md",
+    "MSP/Development models/Cleanroom модель.md",
+    "Excalidraw/Drawing 2026-11-22 20.35.32.excalidraw.md",
+    "MSP/Development models/Unified process.md",
+    "MSP/FP/VAF і AFP.md",
     "UX UI/check proto.md",
     "Manažment/Kaua.md",
     "BP/CPM.drawio",
@@ -213,15 +223,6 @@
     "FJ/Трансформація безконтекстових граматик.md",
     "FJ/Машина Тьюрінга.md",
     "FJ/Стековий автомат.md",
-    "FJ/Мова генерована граматикою.md",
-    "FJ/Формальні мови та граматики.md",
-    "FJ/Формальна мова над алфавітом А.md",
-    "FJ/Класифікаця граматик.md",
-    "FJ/Регулярні мови.md",
-    "FJ/Деривація Бжозовського.md",
-    "FJ/Детермінізація НКА.md",
-    "FJ/ДКА.md",
-    "FJ/НКА.md",
     "DB/Адміністрування",
     "Pasted image 20260114011655.png",
     "Pasted image 20260114003347.png",
